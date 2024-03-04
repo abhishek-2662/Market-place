@@ -1,14 +1,12 @@
 [
-    { "full_name": "Electrician" },
-    { "full_name": "Air Conditioner" },
-    { "full_name": "Plumber" },
-    { "full_name": "Carpentar" },
-    { "full_name": "Appliances" },
-    { "full_name": "Bathroom" },
-    { "full_name": "Kitchen" },
-    { "full_name": "Tailor" },
-    { "full_name": "Home Cleaning" },
-    { "full_name": "Salon For Men" },
-    { "full_name": "Salon For Women" }
+    { "full_name": "Electronics" },
+    { "full_name": "Grocery" },
+    { "full_name": "Stationary" },
+    { "full_name": "Medical" },
+    { "full_name": "clothes" },
+    { "full_name": "Shoes" },
+    { "full_name": "Beauty" },
+    { "full_name": "Cosmetics" }
+    
 
   ]

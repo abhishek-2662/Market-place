@@ -213,7 +213,7 @@ const Login = () => {
           </div>
         </div>
 
-        <div className="hidden md:block bg-[url('https://img.freepik.com/free-vector/cleaners-with-cleaning-products-housekeeping-service_18591-52068.jpg?w=740&t=st=1682166693~exp=1682167293~hmac=64f5e0eb7e8469795f4782203b4f34d321d34786324396addf4fd0b94cee2f24')]  bg-right bg-no-repeat w-full h-[500px]"></div>
+        {/* <div className="hidden md:block bg-[url('https://img.freepik.com/free-psd/marketing-concept-with-device_23-2149835027.jpg?w=740&t=st=1695627943~exp=1695628543~hmac=b320a15f4273e072ff28b5f7f19e98fdfd631f0ab9f52a6d8b59efba501e79e3"></div> */}
       </div>
       <ReverseGeocode />
       <ToastContainer />

@@ -9,10 +9,10 @@ export default function Fullreport() {
   return (
     <div>
       <div className=' text-black flex justify-center flex-wrap my-3'>
-        <CustomerSatisfaction />
+        {/* <CustomerSatisfaction />
         <ProjectCompleted />
         <YearsMarket />
-        <HappyCustomer />
+        <HappyCustomer /> */}
       </div>
       <div className=' flex ml-8 justify-center  '>
         <img src='./Images/aa.png' alt='ourServices'  />

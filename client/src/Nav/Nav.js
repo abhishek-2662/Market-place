@@ -26,7 +26,7 @@ export default function Nav() {
             <Link to="/">
               <img
                 width="100px"
-                src="./Images/slogo.jpg"
+                src="./Images/slogo.png"
                 alt="logo"
                 className="w-9"
               />
@@ -104,23 +104,23 @@ export default function Nav() {
                     offset={-100}
                     onClick={scrollToFooter}
                   >
-                    <button> Professionals</button>
+                    <button> Sellers</button>
                   </ScrollLink>
                 </li>
               )}
               {onLine ? (
                 onLine == 1 ? (
                   <li className="text-gray-600 text-lg font-bold hover:text-blue-600">
-                    <Link to="/logout">LogOut</Link>
+                    <Link to="/logout">Logout</Link>
                   </li>
                 ) : (
                   <li className="text-gray-600 text-lg font-bold hover:text-blue-600">
-                    <Link to="/out">LogOut</Link>
+                    <Link to="/out">Logout</Link>
                   </li>
                 )
               ) : (
                 <li className="text-gray-600 font-bold text-lg hover:text-blue-600">
-                  <Link to="/signin">SignIn</Link>
+                  <Link to="/signin">Sign In</Link>
                 </li>
               )}
             </ul>

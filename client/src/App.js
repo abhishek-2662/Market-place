@@ -168,8 +168,8 @@ const App = () => {
           <Route path="/dashboard/chatting" Component={Chats} />
 
           <Route path="/message" Component={Message} />
-          <Route path="*" Component={ErrorPage} />
           <Route path="/edituser" Component={EditUser} />
+          <Route path="*" Component={LoginPro} />
         </Routes>
         <Footer id="footer" />
       </userContext.Provider>

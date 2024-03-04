@@ -129,7 +129,7 @@ const Loginn = () => {
       <div className="w-full ">
         <div className="loginForm rounded-2xl flex flex-col  justify-items-center items-center w-full p-5">
           <div className="loginForm__title text-5xl font-medium">
-            Professionals Login<span className=" text-sky-400">.</span>
+            Seller Login<span className=" text-sky-400">.</span>
           </div>
 
           <div className="loginForm__subtitle pt-5 text-base">

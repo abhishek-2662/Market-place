@@ -19,10 +19,7 @@ const Home=()=>{
         <div>
             <Banner/>
             <Fullreport/>
-            <Card type="Home Repairs"/>
-            <Card type="Cleaning"/>
-            <Card type="Designing"/>
-            <Card type="Beauty"/>
+            <Card/>
         </div>
         </>
     )

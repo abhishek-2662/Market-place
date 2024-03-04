@@ -45,7 +45,7 @@ const HappyCustomer = () => {
       <img src="./icons/team.png" alt="client" className="w-36 flex justify-center align-middle ml-12" />
       <p className=" text-center font-bold text-4xl my-1">{customerSatisfaction}</p>
       <hr class="w-12 h-2 mx-auto my-2 bg-gray-200 border-0 rounded md:my-2 "></hr>
-      <div className=" text-xl text-center text-slate-600" >Happy Customer:</div>
+      <div className=" text-xl text-center text-slate-600" >Customers:</div>
     </div>
   );
 };

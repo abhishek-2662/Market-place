@@ -152,7 +152,7 @@ const SignInn = () => {
         <div className="my-4 flex justify-center ">
           <div className="text-black flex flex-col justify-center">
             <h3 className="mb-5 ml-5 text-4xl font-serif font-bold">
-              Profesional Registration form
+              Seller Registration
             </h3>
             <form className=" ml-5 flex flex-col  justify-center py-6">
               <div className="flex flex-wrap  ">
@@ -279,19 +279,15 @@ const SignInn = () => {
                     value={userData.profession}
                   >
                     <option className=" text-blue-gray-600 " value="">
-                      Select Profesional
+                      Select Category
                     </option>
-                    <option>Air Conditioner</option>
-                    <option>Appliances</option>
-                    <option>Electrician</option>
-                    <option>Plumber</option>
-                    <option>Paintor</option>
-                    <option>Kitchen</option>
-                    <option>Salon For Men</option>
-                    <option>Salon For Women</option>
-                    <option>Tailor</option>
-                    <option>Bathroom</option>
-                    <option>HomeWorker</option>
+                    <option>Electronic</option>
+                    <option>Stationary</option>
+                    <option>Shoes</option>
+                    <option>Clothes</option>
+                    <option>Grocery</option>
+                    <option>Medical</option>
+                    
                   </select>
                 </div>
               </div>
